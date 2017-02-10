@@ -5,6 +5,7 @@ public class diguiTest {
 	public static void main(String args[]){
 		System.out.println(fit(10));
 	}
+	
 
 	public static long fit(int n){
 		if(n<=1){
